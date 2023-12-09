@@ -6,14 +6,17 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-<p>
 
-- 🌱  I’m Now exploring - Next JS and Meterial ui.
 
-- 🤔 I’m trying - To Get a Job as a Junior Web Developer.
-- 💬 Ask me about Javascript, React .
+<div align="left">
+<a><img align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="300" height="160"/></a>
+</div>
 
-<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="230" height="120"></p>
+
+#### 🌱  I’m Now exploring - Next JS and Meterial ui.
+
+#### 🤔 I’m trying - To Get a Job as a Junior Web Developer.
+#### 💬 Ask me about Javascript, React .
 
 ## Languages and Tools 
 
@@ -23,3 +26,5 @@
   </a>
 </p>
 
+## 📈 Current Stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=saiyedimtiaj&theme=shadow-blue" alt="GitHub Streak" /></a>
