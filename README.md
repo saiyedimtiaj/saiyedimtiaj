@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/saiyedimtiaj/saiyedimtiaj/main/assets/banner.PNG" width="100%" height="200">
 
 # <p align="center">Hi there 👋 , I'm Imtiaj</p>
+<h3 align="center">A passionate Full Stack Web Developer from 🇧🇩</h3>
 
 ## About Me
 
