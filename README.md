@@ -26,5 +26,14 @@
   </a>
 </p>
 
+## 🌐 Socials:
+<p align="center">
+<a href="https://www.linkedin.com/in/saiyed-mohammad-imtiaj-79217a2a4/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230077B8.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href='https://www.facebook.com/saiyed.imtiaz'>
+<img alt="Static Badge" src="https://img.shields.io/badge/facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"></a></p>
+
 ## 📈 Current Stats
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=saiyedimtiaj&theme=shadow-blue&hide_border=true" alt="GitHub Streak" /></a></p>
+
+
+
