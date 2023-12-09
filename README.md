@@ -6,9 +6,20 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-🌱  I’m Now exploring - Next JS and Meterial ui.
+<p>
 
-🤔 I’m trying - To Get a Job as a Junior Web Developer.
+- 🌱  I’m Now exploring - Next JS and Meterial ui.
 
-<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="280" height="180">
+- 🤔 I’m trying - To Get a Job as a Junior Web Developer.
+- 💬 Ask me about Javascript, React .
+
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="230" height="120"></p>
+
+## Languages and Tools 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,firebase,nodejs,express,mongodb,nextjs,materialui,git,vscode,figma" />
+  </a>
+</p>
 
