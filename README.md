@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/saiyedimtiaj/saiyedimtiaj/main/assets/banner.PNG" width="100%" height="110">
+<img src="https://raw.githubusercontent.com/saiyedimtiaj/saiyedimtiaj/main/assets/banner.PNG" width="100%" height="200">
 
 # <center>Hi there 👋 , I'm Imtiaj</center>
 
