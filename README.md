@@ -6,8 +6,6 @@
 
 ## About Me
 
-<!-- - 🔭 I’m currently working on ... -->
-
 <div align="left">
 <a><img align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="300" height="160"/></a>
 </div>
@@ -17,6 +15,14 @@
 #### 🤔 I’m trying - To Get a Job as a Junior Web Developer.
 
 #### 💬 Ask me about Javascript, React .
+
+## 🚀 What I'm Working With
+
+I am currently working with a modern tech stack that includes **JavaScript**, **React**, and **TypeScript** for building dynamic user interfaces, along with **Node.js**, **Express**, and **MongoDB** for back-end development. I also use **Next.js** for server-side rendering and static site generation.
+
+For styling, I prefer **Tailwind CSS** and **Bootstrap**, while **Redux** helps me manage complex application state. I'm also exploring **Prisma** and **PostgreSQL** for efficient database management, and using **Firebase** for real-time data and authentication.
+
+Tools like **Git**, **VSCode**, and **Figma** assist me in version control, code editing, and design.
 
 ## Languages and Tools
 
