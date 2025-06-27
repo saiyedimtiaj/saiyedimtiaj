@@ -52,7 +52,7 @@ Tools like **Git**, **VSCode**, and **Figma** assist me in version control, code
 ## 📈 Current Stats
 
 <p align="center">
-  <a href="https://github.com/saiyedimtiaj">
+  <a href="https://streak-stats.demolab.com/?user=saiyedimtiaj">
     <img src="https://streak-stats.demolab.com/?user=saiyedimtiaj" alt="GitHub Streak Stats" />
   </a>
 </p>
